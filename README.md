@@ -1,4 +1,4 @@
-![메인](https://github.com/springbootProejct/hopeProject/assets/104418414/1ef608bb-a4ef-4a93-b943-0941763408b5)
+![image](https://github.com/springbootProejct/hopeProject/assets/104418414/49b77c2b-46d4-47ee-9a57-79e0902970a6)
 # 😊 : 희망의 조각프로젝트 소개
 
 
