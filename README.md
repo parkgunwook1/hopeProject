@@ -119,7 +119,8 @@
 
 <br>
 
-### aws ec2 rdb 배포성공
+
+### AWS EC2 RDB 배포성공
 ![image](https://github.com/springbootProejct/hopeProject/assets/104418414/f0519d4d-0103-40c3-8bec-964c415a802f)
 
 
